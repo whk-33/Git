@@ -1,0 +1,14 @@
+# Mock 数据可以进 git，真实数据不入
+# data/interim/
+# data/processed/
+*.pt
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+*.log
