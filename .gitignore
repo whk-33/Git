@@ -12,3 +12,7 @@ env/
 .vscode/
 .DS_Store
 *.log
+
+# pyvis 自动下载的前端库（不应进 git）
+lib/
+*.vis-network*
